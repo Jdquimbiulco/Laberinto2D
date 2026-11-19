@@ -1,0 +1,70 @@
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe.config
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csprojAssemblyReference.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerManual.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmMenu.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerAutomatic.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe.config
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csprojAssemblyReference.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerAutomatic.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerManual.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmMenu.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberintos\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe.config
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerAutomatic.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerManual.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmMenu.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.AssemblyReference.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.CoreCompileInputs.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe.config
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csprojAssemblyReference.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerAutomatic.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerManual.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmMenu.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.CoreCompileInputs.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Escritorio\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe.config
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csprojAssemblyReference.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerAutomatic.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerManual.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmMenu.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.CoreCompileInputs.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe.config
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\bin\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csprojAssemblyReference.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerManual.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmMenu.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.csproj.CoreCompileInputs.cache
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.exe
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Laberintos\Laberinto con IA Optimizado\WinAppLaberynth\WinAppLaberynth\obj\Debug\WinAppLaberynth.frmBeginnerAutomaticRight.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAppLaberynth", "WinAppLaberynth\WinAppLaberynth.csproj", "{B59490B3-C3CB-456C-A195-F93676E66CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59490B3-C3CB-456C-A195-F93676E66CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59490B3-C3CB-456C-A195-F93676E66CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59490B3-C3CB-456C-A195-F93676E66CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59490B3-C3CB-456C-A195-F93676E66CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EB0525-0AC8-41B4-BA09-E06B186E570E}
+	EndGlobalSection
+EndGlobal
